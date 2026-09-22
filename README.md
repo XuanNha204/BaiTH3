@@ -1,4 +1,4 @@
-# th3_du_bao_thoi_tiet
+# Thuc Hanh 3 - Huỳnh Xuân Nhã - 2224801030048
 
 A new Flutter project.
 
